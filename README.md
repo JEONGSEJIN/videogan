@@ -1,1 +1,6 @@
-videogan 구현
+# Generating Videos with Scene Dynamics
+
+## Introduction
+
+## Requirements
+
